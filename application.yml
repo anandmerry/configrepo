@@ -1,2 +1,2 @@
 db:
-  connection: connection-string-from-github(application.yml)
+  connection: connection-string-from-github(application.YML)
