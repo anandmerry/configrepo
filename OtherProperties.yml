@@ -1,2 +1,2 @@
 db:
-  connection: connection-string-from-github(otherproperties.yml)
+  connection: connection-string-from-github(otherproperties.YML)
